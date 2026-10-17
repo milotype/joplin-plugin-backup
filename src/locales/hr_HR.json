@@ -115,7 +115,7 @@
       "description": "Izvrši naredbu kada je sigurnosna kopija gotova"
     },
     "fsWorkaroundLinux": {
-      "label": "Koristite izvorne Linux naredbe umjesto fs",
+      "label": "Koristi izvorne Linux naredbe umjesto fs",
       "description": "Koristi izvorne Linux naredbe umjesto Node.js fs API-ja kao zaobilazno rješenje za problem #98."
     }
   },
